@@ -21,7 +21,7 @@ export const aboutData = {
   paragraphOne: 'I am a Software Developer in the Tampa Bay Area. I am currently a student in Lambda School Full Stack - Web Development, polishing my coding skills. I have background knowledge of React, Javascript, HTML, CSS, Node.js, Python, and more.',
   paragraphTwo: 'When I am not designing a new app or website, you can find me at the beach with a bloody mary in hand; or playing an MMORPG.',
   paragraphThree: 'Feel free to contact me if you have any ideas for an app or webpage',
-  resume: 'https://www.resumemaker.online/es.php', // if no resume, the button will not show up
+  resume: 'https://docs.google.com/document/d/1kpLME6mp_BacVWW0E5xYWqA5bvogFV41jjADGBTkolg/edit?usp=sharing', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
