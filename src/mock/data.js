@@ -28,6 +28,14 @@ export const aboutData = {
 export const projectsData = [
   {
     id: nanoid(),
+    img: 'StaminaJitsu',
+    title: 'Stamina Jiu Jitsu',
+    info: 'A social media app that allows martial artists to create their own profile and post content while commenting on other posts. ',
+    info2: 'JavaScript | Wix Velo ',
+    url: 'https://staminajiujitsu32092.wixsite.com/my-site',
+  },
+  {
+    id: nanoid(),
     img: 'express-groomer',
     title: 'Express Groomer',
     info: 'An app that allows customers to search for pet groomers and request appointments; while allowing pet groomers to list their services and accept appointments.',
